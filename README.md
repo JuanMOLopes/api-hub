@@ -76,4 +76,14 @@ O projeto foi desenvolvido para estudar e integrar **múltiplas APIs**, consumin
 
 6. Abra o arquivo **"index.html"** em seu navegador.
 
+---
+
+## 👨‍💻 Desenvolvedores
+
+• Agatha Aline França <br>
+• Ana Beatriz Farias Pereira <br>
+• Juan Matheus de Oliveira Lopes <br>
+• Lucas Aguiar Pereira Marin <br>
+• Zayra Alice França
+
 </div>
